@@ -1,5 +1,6 @@
 # .github.io
 Portfolio 
+----------
 
 This portfolio will show certifications and work examples of the latter 20 years in my IT Career.
 
@@ -7,9 +8,10 @@ My matric certificate:
 
 <img width="756" height="1086" alt="image" src="https://github.com/user-attachments/assets/c5631bf0-4959-439d-a940-f3a910006c02" />
 
-My Current work experience is a dual position of Scrum Master as well as a Business Systems Analyst.
+**My Current work experience is a dual position of Scrum Master as well as a Business Systems Analyst.**
 
   CERTIFIED SCRUM MASTER:
+  -----------------------
   
   <img width="1269" height="920" alt="image" src="https://github.com/user-attachments/assets/79b9e3f6-7b77-4869-8398-70b852fcf2b5" />
   
@@ -20,6 +22,7 @@ My Current work experience is a dual position of Scrum Master as well as a Busin
    <img width="1460" height="1203" alt="image" src="https://github.com/user-attachments/assets/3924fee6-28c7-4c3e-9cb1-b42557b75e3c" />
 
   CERTIFIED BUSINESS ANALYST:
+  ---------------------------
 
   <img width="994" height="1397" alt="image" src="https://github.com/user-attachments/assets/a6cc22db-1a86-4fc0-835a-713694582d04" />
 
@@ -34,6 +37,7 @@ My Current work experience is a dual position of Scrum Master as well as a Busin
   <img width="859" height="1023" alt="image" src="https://github.com/user-attachments/assets/b806d702-c12d-4017-b866-97efdb796262" />
 
 Work as an integration designer/analyst
+---------------------------------------
 
 Certifications:
 
